@@ -1,3 +1,7 @@
 # Folders
 /books
 /__pycache__
+
+# Environments
+.venv
+.env
